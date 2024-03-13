@@ -26,6 +26,8 @@ Available commands:
 """
     print(help_text)
 
+
+
 def main():
     """Central function printing all the commands"""
     input_manager = InputManager()
